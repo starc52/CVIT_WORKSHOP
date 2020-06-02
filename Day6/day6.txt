@@ -1,0 +1,11 @@
+link to quiz colab file
+https://colab.research.google.com/drive/1Hr7ZJ6L_Lwz6dGu3h3Nl10OGS2lysEyP?usp=sharing
+link to data_munging file
+https://colab.research.google.com/drive/19kAggUBg7cPlWSU65DmZfe9QzEGE6GP1?usp=sharing
+link to regression colab
+https://colab.research.google.com/drive/1ZNVgwZp87e7Fs81DUIEhtOufr4nIOXmN?usp=sharing
+
+
+
+
+Note that the quiz.ipynb will not display all questions on github. please clone the repository and run it on your own system to see all answers
